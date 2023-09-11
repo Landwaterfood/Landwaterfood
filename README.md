@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Landwaterfood
-- 👀 I’m interested in GIS, data visualisations, web application development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chris@landwaterfood.co.uk
+- 👀 I’m interested in data analysis, visualisations, geospatial, web application development. Python, Javascript
+- 🌱 I’m currently learning D3.JS
+- 💞️ I’m looking to collaborate on building Regenerative Agriculture networks
+- 📫 How to reach me landwaterfood@gmail.com
 
 <!---
 Landwaterfood/Landwaterfood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
