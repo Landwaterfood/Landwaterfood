@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Landwaterfood
 - 👀 I’m interested in data analysis, visualisations, geospatial, web application development. Python, Javascript
 - 🌱 I’m currently learning D3.JS
-- 💞️ I’m looking to collaborate on building Regenerative Agriculture networks
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me landwaterfood@gmail.com
 
 <!---
