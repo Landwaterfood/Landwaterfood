@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Landwaterfood
-- 👀 I’m interested in mapping, data analysis, visualisations, geospatial, web application development. Python, Javascript
+- 👀 I’m interested in Web Dev, GIS & Data Vis
 - 🌱 I’m currently learning D3.JS
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me landwaterfood@gmail.com
